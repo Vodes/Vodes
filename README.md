@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 <h3 align="left">Currently mostly working on: </h3>
 <ul>
-  <li><h4>Styx</h4>A streaming mediaserver + clients ecosystem currently being rewritten with Ktor backend and Jetpack/Jetbrains Compose Apps.<br>Previously a mesh of PHP APIs, Java Swing Desktop Client and C# (Xamarin) Mobile Client.</li>
-  <li><h4><a href="https://github.com/Irrational-Encoding-Wizardry/vs-muxtools" target="_blank">vs-muxtools</a>/<a href="https://github.com/Irrational-Encoding-Wizardry/muxtools" target="_blank">muxtools</a></h4>An easy-to-use encoding and general fansubbing automation "framework"</li>
-  <li><h4>sneedex.moe</h4>An index website listing the "releases" with the best possible quality for a given series.<br>Sole developer and (one of the) maintainer(s).</li>
+  <li><h4>📺 Styx</h4>A streaming mediaserver + clients ecosystem currently being rewritten with Ktor backend and Jetpack/Jetbrains Compose apps.<br>Previously a mesh of PHP APIs, Java Swing desktop client and C# (Xamarin) mobile client.</li>
+  <li><h4>🎬 <a href="https://github.com/Irrational-Encoding-Wizardry/vs-muxtools" target="_blank">vs-muxtools</a>/<a href="https://github.com/Irrational-Encoding-Wizardry/muxtools" target="_blank">muxtools</a></h4>An easy-to-use encoding and general fansubbing automation "framework"</li>
+  <li><h4>📑 sneedex.moe</h4>An index website listing the "releases" with the best possible quality for a given series.<br>Sole developer and one of the maintainers.</li>
 </ul>
   
 
