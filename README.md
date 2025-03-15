@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h4>Alex, 21, he/him, public service employee in Germany</h4>
+<h4>Alex, 22, he/him, public service employee in Germany</h4>
 
 I may like Kotlin a tad bit too much.
 
