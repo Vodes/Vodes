@@ -23,6 +23,9 @@ I may like Kotlin a tad bit too much.
 <ul>
   <li><h4>📺 <a href="https://github.com/Vodes?tab=repositories&q=Styx&language=kotlin">Styx</a></h4>A streaming mediaserver + clients ecosystem written entirely in Kotlin with Ktor backend and Jetpack/Jetbrains Compose apps.</li>
   <li><h4>🎬 <a href="https://github.com/Vodes/vs-muxtools" target="_blank">vs-muxtools</a>/<a href="https://github.com/Vodes/muxtools" target="_blank">muxtools</a></h4>An easy-to-use encoding and general fansubbing automation "framework"</li>
-  <li><h4>📑 sneedex.moe</h4>An index website listing the "releases" with the best possible quality for a given series.<br>Sole developer and one of the maintainers.</li>
+  
 </ul>
-
+<details>
+  <summary>Older, maybe notable, projects</summary>
+  <li><h4>📑 sneedex.moe</h4>An index website listing the "releases" with the best possible quality for a given series.<br>Sole developer and one of the maintainers.</li>
+</details>
